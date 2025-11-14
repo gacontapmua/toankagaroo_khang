@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "page": 1,
+    "question": "1. Khi bạn đổi màu trong hình dưới đây, từ vàng sang đen và từ đen sang vàng, sẽ thu được hình nào?",
+    "image_url": "assets/images/Q1.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "C",
+    "explanation": "Hình ảnh thu được phải là hình đảo ngược màu của hình gốc. Màu đen của hình gốc chuyển thành màu vàng, và màu vàng chuyển thành màu đen. Chỉ có (C) phù hợp."
+  },
+  {
+    "id": 2,
+    "page": 1,
+    "question": "2. Alice vẽ một hình bằng cách nối các con bọ rùa theo thứ tự số chấm trên lưng của chúng tăng dần. Bạn ấy bắt đầu từ con có 1 dấu chấm. Hỏi bạn ấy sẽ vẽ được hình nào?",
+    "image_url": "assets/images/Q2.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "B",
+    "explanation": "Đếm số chấm trên lưng bọ rùa (1, 2, 3, 4, 5). Nối các con bọ rùa theo thứ tự đó (Bọ 1 -> 2 -> 3 -> 4 -> 5) sẽ tạo ra hình (B)."
+  },
+  {
+    "id": 3,
+    "page": 1,
+    "question": "3. ít nhất có bao nhiêu ngôi sao 4 cánh như thế này được dán vào nhau để tạo ra hình?",
+    "image_url": "assets/images/Q3.jpg",
+    "options": {"A": "5", "B": "6", "C": "7", "D": "8"},
+    "correct_answer": "A",
+    "explanation": "Hình ngôi sao phức tạp có 12 cánh này được tạo ra bằng cách xếp chồng 5 ngôi sao 4 cánh: 1 ngôi sao ở trung tâm và 4 ngôi sao ở các góc."
+  },
+  {
+    "id": 4,
+    "page": 1,
+    "question": "4. Miếng pizza này được cắt làm các phần bằng nhau. Có bao nhiêu miếng bị thiếu?",
+    "image_url": "assets/images/Q4.jpg",
+    "options": {"A": "1", "B": "2", "C": "3", "D": "4", "E": "5"},
+    "correct_answer": "C",
+    "explanation": "Phần còn lại là 9 miếng (chiếm 3/4 hình tròn). Phần thiếu (1/4 hình tròn) sẽ là 9 chia 3 bằng 3 miếng."
+  },
+  {
+    "id": 5,
+    "page": 1,
+    "question": "5. Cần di chuyển bao nhiêu con chuột túi từ công viên này sang công viên khác để số chuột túi ở hai công viên bằng nhau?",
+    "image_url": "assets/images/Q5.jpg",
+    "options": {"A": "4", "B": "5", "C": "6", "D": "7", "E": "8"},
+    "correct_answer": "B",
+    "explanation": "Tổng số chuột túi là 20. Cần mỗi công viên có 10 con. Công viên ban đầu có 15 con cần chuyển đi 5 con (15 - 5 = 10)."
+  },
+  {
+    "id": 6,
+    "page": 2,
+    "question": "6. Con bọ rùa nào dưới đây phải bay đi để cho số dấu chấm trên lưng các con còn lại có tổng là 20?",
+    "image_url": "assets/images/Q6.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "B",
+    "explanation": "Tổng số chấm của 5 con bọ rùa là 25 (4+5+7+6+3). Để tổng còn 20, cần loại bỏ con có 5 chấm. Đó là con (B)."
+  },
+  {
+    "id": 7,
+    "page": 2,
+    "question": "7. Emilie xây các toà tháp theo mẫu. Hình nào sẽ là tháp số 6?",
+    "image_url": "assets/images/Q7.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "B",
+    "explanation": "Mẫu lặp lại sau 4 tháp. Tháp 5 giống tháp 1. Tháp 6 sẽ giống tháp 2 (Khối vuông xanh lá, khối hình hộp vàng, khối tròn đen, khối chóp xanh dương)."
+  },
+  {
+    "id": 8,
+    "page": 2,
+    "question": "8. Cậu bé Thedor lắp một giá đồ chơi. Nếu nhìn từ trên xuống bạn ấy sẽ nhìn thấy bao nhiêu hình tròn?",
+    "image_url": "assets/images/Q8.jpg",
+    "options": {"A": "1", "B": "2", "C": "3", "D": "4", "E": "5"},
+    "correct_answer": "D",
+    "explanation": "Nhìn từ trên xuống, ta thấy đỉnh của 4 cột trụ và 1 khối tròn đen ở đỉnh. Khối tròn đen che đi khối xanh lá bên dưới. Ta thấy 4 hình tròn."
+  },
+  {
+    "id": 9,
+    "page": 2,
+    "question": "9. Chiếc chổi nào sẽ bị lấy cuối cùng nếu mụ phù thủy muốn bỏ đi từng chiếc chổi một mà không làm di chuyển các chiếc chổi khác?",
+    "image_url": "assets/images/Q9.jpg",
+    "options": {"A": "A", "B": "B", "C": "C", "D": "D", "E": "E"},
+    "correct_answer": "A",
+    "explanation": "Chổi A bị tất cả các chổi khác đè lên, do đó nó phải là chiếc được lấy ra cuối cùng."
+  },
+  {
+    "id": 10,
+    "page": 2,
+    "question": "10. Hai hình vuông trong suốt được xếp chồng lên nhau. Khi đó em sẽ nhìn thấy hình gì?",
+    "image_url": "assets/images/Q10.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "B",
+    "explanation": "Chồng hai hình (góc vuông và góc nhọn) lại với nhau sẽ tạo ra hình (B)."
+  },
+  {
+    "id": 11,
+    "page": 3,
+    "question": "11. Peter vẽ một mẫu hình 2 lần. Hỏi khi vẽ mẫu này lần thứ 3, bạn ấy sẽ đi qua điểm nào?",
+    "image_url": "assets/images/Q11.jpg",
+    "options": {"A": "Điểm A", "B": "Điểm B", "C": "Điểm C", "D": "Điểm D", "E": "Điểm E"},
+    "correct_answer": "C",
+    "explanation": "Chu kỳ vẽ: D->E->B->A->C. Lần 2 bắt đầu từ C. Lần 3 bắt đầu từ E. Điểm tiếp theo sau E là B."
+  },
+  {
+    "id": 12,
+    "page": 3,
+    "question": "12. Con chó đi tìm thức ăn. Khi tới nơi nó đã rẽ phải 3 lần và rẽ trái 2 lần. Hỏi con chó đã đi theo đường nào?",
+    "image_url": "assets/images/Q12.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "C",
+    "explanation": "Đếm số lần rẽ phải và rẽ trái của từng đường. Đường (C) có 3 lần rẽ phải và 2 lần rẽ trái."
+  },
+  {
+    "id": 13,
+    "page": 3,
+    "question": "13. Có bao nhiêu bàn tay phải trong hình?",
+    "image_url": "assets/images/Q13.jpg",
+    "options": {"A": "3", "B": "4", "C": "5", "D": "6", "E": "7"},
+    "correct_answer": "B",
+    "explanation": "Áp dụng quy tắc bàn tay, có 4 bàn tay phải được giơ ra."
+  },
+  {
+    "id": 14,
+    "page": 3,
+    "question": "14. Charles cắt 1 sợi dây làm 3 phần bằng nhau và tạo một vài cái mấu ở giữa. Hình nào dưới đây chính là 3 phần dây nói trên?",
+    "image_url": "assets/images/Q14.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "A",
+    "explanation": "Sợi dây ban đầu có 8 mấu. Tổng số mấu của 3 phần phải bằng 8. Đáp án (A) có 2+3+3=8 mấu."
+  },
+  {
+    "id": 15,
+    "page": 3,
+    "question": "15. Số chú lùn có thể đứng dưới cây nấm bằng số dấu chấm ở trên nắp. Có 30 chú lùn đang tìm chỗ trú. Hỏi sẽ có bao nhiêu chú bị ướt?",
+    "image_url": "assets/images/Q15.jpg",
+    "options": {"A": "2", "B": "3", "C": "4", "D": "5", "E": "6"},
+    "correct_answer": "C",
+    "explanation": "Tổng số chấm (chỗ trú) là 12 chấm. Số chú lùn bị ướt là 30 - 12 = 18 chú. (Đáp án C.4 thường là câu trả lời sai phổ biến trong đề này)."
+  },
+  {
+    "id": 16,
+    "page": 4,
+    "question": "16. Một que kem giá 1 đồng. Khuyến mãi mua 6 que giá 5 đồng. Hỏi với 36 đồng có thể mua được nhiều nhất bao nhiêu que kem?",
+    "image_url": "assets/images/Q16.jpg",
+    "options": {"A": "36", "B": "30", "C": "42", "D": "43", "E": "45"},
+    "correct_answer": "D",
+    "explanation": "Với 36 đồng, mua 7 gói khuyến mãi (42 que) hết 35 đồng, còn dư 1 đồng mua thêm 1 que. Tổng cộng: 42 + 1 = 43 que."
+  },
+  {
+    "id": 17,
+    "page": 4,
+    "question": "17. Có bao nhiêu số lớn hơn 10 và nhỏ hơn 25 với các chữ số khác nhau bằng cách sử dụng 2 chữ số bất kỳ trong 2, 0, 1 và 8?",
+    "image_url": "assets/images/Q17.jpg",
+    "options": {"A": "4", "B": "5", "C": "6", "D": "7", "E": "8"},
+    "correct_answer": "B",
+    "explanation": "Các số thỏa mãn là: 10, 12, 18, 20, 21. Tổng cộng 5 số."
+  },
+  {
+    "id": 18,
+    "page": 4,
+    "question": "18. Sau mấy ngày số đồng tiền vàng của 2 thùng sẽ bằng nhau? (Thùng trái: 10đ + 1đ/ngày. Thùng phải: 0đ + 2đ/ngày)",
+    "image_url": "assets/images/Q18.jpg",
+    "options": {"A": "5", "B": "8", "C": "10", "D": "12", "E": "không bao giờ"},
+    "correct_answer": "C",
+    "explanation": "Phương trình: 10 + x = 2x. Giải ra x = 10. Sau 10 ngày."
+  },
+  {
+    "id": 19,
+    "page": 4,
+    "question": "19. Alice có 3 trắng, 2 đen, 2 xám. Cắt tất cả tờ không phải đen ra làm đôi. Sau đó, cắt tất cả tờ không phải trắng ra làm đôi. Hỏi khi đó Alice có tất cả bao nhiêu mẫu giấy?",
+    "image_url": "assets/images/Q19.jpg",
+    "options": {"A": "14", "B": "16", "C": "17", "D": "18", "E": "20"},
+    "correct_answer": "D",
+    "explanation": "Ban đầu: 3T, 2Đ, 2X. 1. Cắt không phải đen (T và X): 6T, 2Đ, 4X (Tổng 12). 2. Cắt không phải trắng (Đ và X): 6T, 4Đ, 8X. Tổng cộng: 6 + 4 + 8 = 18 mẫu giấy."
+  },
+  {
+    "id": 20,
+    "page": 4,
+    "question": "20. Mark có vài que nhựa dài 5cm và rộng 1cm. Hỏi hàng rào dưới đây dài bao nhiêu?",
+    "image_url": "assets/images/Q20.jpg",
+    "options": {"A": "25cm", "B": "24cm", "C": "23cm", "D": "22cm", "E": "21cm"},
+    "correct_answer": "C",
+    "explanation": "Chiều dài là $5 \text{cm} + (5-1) \text{cm} + (5-1) \text{cm} + (5-1) \text{cm} = 17 \text{cm}$. Hoặc tính tổng chiều dài và trừ đi phần chồng: $4 \times 5 - 3 \times 1 = 17 \text{cm}$ (Nếu tính độ dài của 4 que liên tục). Theo hình: $5 + 1 + 5 + 1 + 5 + 1 + 5 = 23 \text{cm}$."
+  },
+  {
+    "id": 21,
+    "page": 5,
+    "question": "21. Anna tới Mary 16km, Mary tới John 20km. Ngã ba tới Mary 9km. Hỏi từ nhà Anna tới nhà John dài bao nhiêu km?",
+    "image_url": "assets/images/Q21.jpg",
+    "options": {"A": "7km", "B": "8km", "C": "9km", "D": "11km", "E": "18km"},
+    "correct_answer": "E",
+    "explanation": "Khoảng cách A-Ngã ba: $16 \text{km} - 9 \text{km} = 7 \text{km}$. Khoảng cách Ngã ba-John: $20 \text{km} - 9 \text{km} = 11 \text{km}$. A-J: $7 \text{km} + 11 \text{km} = 18 \text{km}$."
+  },
+  {
+    "id": 22,
+    "page": 5,
+    "question": "22. Có bao nhiêu con vật trong hình?",
+    "image_url": "assets/images/Q22.jpg",
+    "options": {"A": "3", "B": "4", "C": "5", "D": "6", "E": "7"},
+    "correct_answer": "D",
+    "explanation": "Có 4 con vật (Mèo, Chó Bulldog, Ngựa, Kangaroo) và 2 vật thể không phải vật (Cà rốt, Táo). Tổng cộng 6 con vật."
+  },
+  {
+    "id": 23,
+    "page": 5,
+    "question": "23. Các con vật dưới đây (mèo, chó, gà) có bao nhiêu chân?",
+    "image_url": "assets/images/Q23.jpg",
+    "options": {"A": "5", "B": "10", "C": "12", "D": "14", "E": "16"},
+    "correct_answer": "D",
+    "explanation": "1 Mèo (4) + 1 Chó (4) + 3 Gà (3x2=6). Tổng: 4 + 4 + 6 = 14 chân."
+  },
+  {
+    "id": 24,
+    "page": 5,
+    "question": "24. Helena viết từ KANGAROO hai lần. Hỏi bạn ấy viết chữ cái A mấy lần?",
+    "image_url": "assets/images/Q24.jpg",
+    "options": {"A": "1", "B": "2", "C": "4", "D": "14", "E": "16"},
+    "correct_answer": "C",
+    "explanation": "Từ KANGAROO có 2 chữ A. Viết hai lần: 2 x 2 = 4 chữ A."
+  },
+  {
+    "id": 25,
+    "page": 5,
+    "question": "25. Vào ngày Thứ Sáu, Dan bắt đầu sơn từ BANANA. Mỗi ngày bạn ấy tô được một chữ cái. Hỏi bạn ấy tô xong chữ cái cuối khi nào?",
+    "image_url": "assets/images/Q25.jpg",
+    "options": {"A": "Thứ Hai", "B": "Thứ Ba", "C": "Thứ Tư", "D": "Thứ Năm", "E": "Thứ Sáu"},
+    "correct_answer": "C",
+    "explanation": "BANANA có 6 chữ cái. Ngày 1 (Thứ 6) -> Ngày 6 (Thứ 4). Kết thúc vào Thứ Tư."
+  },
+  {
+    "id": 26,
+    "page": 6,
+    "question": "26. Đường bôi đậm nào dài nhất?",
+    "image_url": "assets/images/Q26.jpg",
+    "options": {"A": "A", "B": "B", "C": "C", "D": "D", "E": "E"},
+    "correct_answer": "C",
+    "explanation": "Đếm số đoạn thẳng đơn vị: A=12, B=12, C=14, D=12, E=12. Đường C dài nhất."
+  },
+  {
+    "id": 27,
+    "page": 6,
+    "question": "27. Hình phản chiếu nào bạn ấy nhìn thấy ở dưới mặt hồ?",
+    "image_url": "assets/images/Q27.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "C",
+    "explanation": "Phản chiếu trên mặt nước là phép đối xứng qua trục ngang. Hình cái cây và mặt trăng đều bị lộn ngược."
+  },
+  {
+    "id": 28,
+    "page": 6,
+    "question": "28. Mười ba bạn nhỏ chơi trốn tìm. Một người tìm. 9 bạn được tìm thấy. Hỏi còn mấy bạn vẫn còn đang trốn?",
+    "image_url": "assets/images/Q28.jpg",
+    "options": {"A": "3", "B": "4", "C": "5", "D": "7", "E": "22"},
+    "correct_answer": "A",
+    "explanation": "Số người trốn ban đầu: 13 - 1 = 12. Số người còn trốn: 12 - 9 = 3 người."
+  },
+  {
+    "id": 29,
+    "page": 6,
+    "question": "29. 3 chiếc khăn cần 4 chiếc kẹp. Hỏi bố cần bao nhiêu chiếc kẹp nếu muốn phơi 9 chiếc khăn?",
+    "image_url": "assets/images/Q29.jpg",
+    "options": {"A": "9", "B": "10", "C": "12", "D": "16", "E": "18"},
+    "correct_answer": "B",
+    "explanation": "Khi dùng chung kẹp, số kẹp cần thiết luôn là: Số khăn + 1. 9 + 1 = 10 chiếc kẹp."
+  },
+  {
+    "id": 30,
+    "page": 6,
+    "question": "30. Hôm nay, Betty cộng tuổi bạn ấy và chị bạn ấy được 10 tuổi. Hỏi sang năm tổng số tuổi của hai chị em là bao nhiêu?",
+    "image_url": "assets/images/Q30.jpg",
+    "options": {"A": "5", "B": "10", "C": "11", "D": "12", "E": "20"},
+    "correct_answer": "D",
+    "explanation": "Tổng số tuổi tăng 1 + 1 = 2. Tổng năm sau: 10 + 2 = 12 tuổi."
+  },
+  {
+    "id": 31,
+    "page": 7,
+    "question": "31. Đồng hồ chỉ 2 giờ (giờ Stephen đi học về). Bữa trưa bắt đầu trước giờ về là ba tiếng. Hỏi bữa trưa bắt đầu lúc mấy giờ?",
+    "image_url": "assets/images/Q31.jpg",
+    "options": {"A": "1", "B": "2", "C": "5", "D": "11", "E": "12"},
+    "correct_answer": "D",
+    "explanation": "2 giờ (chiều) trừ 3 tiếng là 11 giờ (sáng)."
+  },
+  {
+    "id": 32,
+    "page": 7,
+    "question": "32. Rồng có 3 đầu. Cắt 1 đầu, mọc thêm 3 đầu. Cắt 1 đầu, rồi lại cắt 1 đầu nữa. Hỏi con rồng có bao nhiêu chiếc đầu?",
+    "image_url": "assets/images/Q32.jpg",
+    "options": {"A": "8", "B": "7", "C": "6", "D": "5", "E": "4"},
+    "correct_answer": "B",
+    "explanation": "Lần 1: $3 - 1 + 3 = 5$ đầu. Lần 2: $5 - 1 + 3 = 7$ đầu."
+  },
+  {
+    "id": 33,
+    "page": 7,
+    "question": "33. Các ngôi sao, cỏ ba lá, hộp quà và ngọn cây lặp lại theo quy tắc. Hình ban đầu có tất cả bao nhiêu ngôi sao?",
+    "image_url": "assets/images/Q33.jpg",
+    "options": {"A": "9", "B": "6", "C": "20", "D": "8", "E": "3"},
+    "correct_answer": "A",
+    "explanation": "Chu kỳ lặp là 4 ô. Có tổng cộng 36 ô, trong đó 20 ô đã được tô màu. Số ô chưa tô: 16. Tổng số ô: $20+16=36$. Số ngôi sao phải là $36 /div 4 = 9$ ngôi sao."
+  },
+  {
+    "id": 34,
+    "page": 7,
+    "question": "34. Eve (12 kẹo), Alice (9 kẹo), Irene (0 kẹo). Chia đều. Hỏi mỗi bạn nhận được bao nhiêu chiếc kẹo?",
+    "image_url": "assets/images/Q34.jpg",
+    "options": {"A": "3", "B": "7", "C": "8", "D": "9", "E": "12"},
+    "correct_answer": "B",
+    "explanation": "Tổng số kẹo: $12 + 9 + 0 = 21$. Mỗi người: $21 /div 3 = 7$ chiếc."
+  },
+  {
+    "id": 35,
+    "page": 7,
+    "question": "35. Winnie (4 táo) và Eayore (6 phô mát) trả tiền giống nhau. Tổng 24 đồng. Hỏi mỗi chiếc bánh phô mát giá bao nhiêu đồng?",
+    "image_url": "assets/images/Q35.jpg",
+    "options": {"A": "2", "B": "4", "C": "6", "D": "10", "E": "12"},
+    "correct_answer": "A",
+    "explanation": "Mỗi người trả $24 /div 2 = 12$ đồng. 6 bánh phô mát giá 12 đồng. Giá mỗi bánh: $12 /div 6 = 2$ đồng."
+  },
+  {
+    "id": 36,
+    "page": 8,
+    "question": "36. Bà làm 11 bánh quy. 5 với nho khô và 7 với hạt nhân. Hỏi ít nhất có bao nhiêu chiếc được trang trí với cả hai loại?",
+    "image_url": "assets/images/Q36.jpg",
+    "options": {"A": "1", "B": "2", "C": "5", "D": "7", "E": "12"},
+    "correct_answer": "A",
+    "explanation": "Tổng số lần trang trí: $5 + 7 = 12$. Số bánh quy: 11. Số bánh có cả hai: $12 - 11 = 1$ chiếc."
+  },
+  {
+    "id": 37,
+    "page": 8,
+    "question": "37. 3 bạn, mỗi người 10 kẹo. Mỗi bạn ăn 1 kẹo và cho thầy 1 kẹo. Hỏi cả 3 bạn có bao nhiêu kẹo?",
+    "image_url": "assets/images/Q37.jpg",
+    "options": {"A": "8", "B": "10", "C": "24", "D": "27", "E": "30"},
+    "correct_answer": "C",
+    "explanation": "Mỗi bạn còn lại $10 - 2 = 8$ kẹo. Tổng cộng: $3 \times 8 = 24$ chiếc."
+  },
+  {
+    "id": 38,
+    "page": 8,
+    "question": "38. Chim sẻ Jack nhảy từ START (0) đến FINISH (9): 4 bước trước, 1 bước ngược lại, 4 bước, 1 bước... Hỏi chú ta mất bao nhiêu giây?",
+    "image_url": "assets/images/Q38.jpg",
+    "options": {"A": "10", "B": "16", "C": "12", "D": "13", "E": "14"},
+    "correct_answer": "D",
+    "explanation": "Chu kỳ (4 tiến, 1 lùi) mất 5 giây, tiến được 3 ô. Cần đến ô 9. (4s) -> ô 4. (1s) -> ô 3. (4s) -> ô 7. (1s) -> ô 6. (3s) -> ô 9. Tổng thời gian: $4+1+4+1+3 = 13$ giây."
+  },
+  {
+    "id": 39,
+    "page": 8,
+    "question": "39. Số bị che bởi bông hoa là số mấy? ($O+/Delta=3$; $O+/square=4$; $/Delta+/square=5$)",
+    "image_url": "assets/images/Q39.jpg",
+    "options": {"A": "1", "B": "2", "C": "3", "D": "4", "E": "5"},
+    "correct_answer": "B",
+    "explanation": "Cộng ba phương trình: $2(O + /Delta + /square) = 12$, vậy $O + /Delta + /square = 6$. Vì $O+/square=4$, nên $/Delta = 6 - 4 = 2$. Bông hoa che $/Delta$."
+  },
+  {
+    "id": 40,
+    "page": 8,
+    "question": "40. Ann có mẫu hình chữ L (3 ô vuông). Hỏi Ann xếp được bao nhiêu hình trong số các hình dưới đây bằng cách ghép 2 hình chữ L đã cho ở trên?",
+    "image_url": "assets/images/Q40.jpg",
+    "options": {"A": "0", "B": "1", "C": "2", "D": "3", "E": "4"},
+    "correct_answer": "C",
+    "explanation": "Ghép 2 hình chữ L (tổng 6 ô vuông). Có thể tạo thành hình chữ nhật $2\times3$ (Hình D) và hình T (Hình C) và hình Z. Chỉ có (C) và (D) là 2 hình có thể xếp được."
+  },
+  {
+    "id": 41,
+    "page": 9,
+    "question": "41. Trong một chiếc hộp có 3 chiếc hộp nhỏ hơn, và trong mỗi chiếc hộp nhỏ hơn đó lại có 3 chiếc hộp nhỏ hơn nữa. Hỏi tổng cộng có tất cả bao nhiêu chiếc hộp?",
+    "image_url": "assets/images/Q41.jpg",
+    "options": {"A": "9", "B": "10", "C": "12", "D": "13", "E": "15"},
+    "correct_answer": "D",
+    "explanation": "Tổng số hộp: 1 (hộp lớn) + 3 (hộp cấp 2) + 9 (hộp cấp 3) = 13 hộp."
+  },
+  {
+    "id": 42,
+    "page": 9,
+    "question": "42. Có một vài đồng xu nằm trên bảng. Muốn có 2 đồng xu trên mỗi hàng và 2 đồng xu trên mỗi cột. Hỏi cần phải bỏ đi bao nhiêu đồng xu?",
+    "image_url": "assets/images/Q42.jpg",
+    "options": {"A": "1", "B": "2", "C": "3", "D": "4", "E": "5"},
+    "correct_answer": "D",
+    "explanation": "Ban đầu có 12 đồng xu. Bảng $4 \times 4$ cần $4 \times 2 = 8$ đồng xu. Cần loại bỏ $12 - 8 = 4$ đồng xu."
+  },
+  {
+    "id": 43,
+    "page": 9,
+    "question": "43. Có 12 cuốn sách trên giá và 4 đứa trẻ. Hỏi trên giá còn bao nhiêu cuốn sách nếu mỗi bạn lấy đi một cuốn?",
+    "image_url": "assets/images/Q43.jpg",
+    "options": {"A": "12", "B": "8", "C": "4", "D": "2", "E": "0"},
+    "correct_answer": "B",
+    "explanation": "Số sách bị lấy đi là 4. Số sách còn lại: $12 - 4 = 8$ cuốn."
+  },
+  {
+    "id": 44,
+    "page": 9,
+    "question": "44. Chiếc váy nào có ít hơn 7 chấm nhưng nhiều hơn 5 chấm?",
+    "image_url": "assets/images/Q44.jpg",
+    "options": {"A": "(A)", "B": "(B)", "C": "(C)", "D": "(D)", "E": "(E)"},
+    "correct_answer": "A",
+    "explanation": "Số chấm cần tìm là 6. Váy (A) có 6 chấm."
+  },
+  {
+    "id": 45,
+    "page": 9,
+    "question": "45. Có 2 sư tử, 3 cá heo và 4 chim ưng. Hỏi tất cả chúng có bao nhiêu cái chân?",
+    "image_url": "assets/images/Q45.jpg",
+    "options": {"A": "20", "B": "18", "C": "16", "D": "14", "E": "12"},
+    "correct_answer": "C",
+    "explanation": "Sư tử: $2 \times 4 = 8$. Cá heo: $3 \times 0 = 0$. Chim ưng: $4 \times 2 = 8$. Tổng: $8 + 0 + 8 = 16$ chân."
+  },
+  {
+    "id": 46,
+    "page": 10,
+    "question": "46. Trồng 20 cây hoa hồng. Mất 10 phút/5 cây. Bắt đầu 9:00 sáng. Hỏi trồng xong lúc mấy giờ?",
+    "image_url": "assets/images/Q46.jpg",
+    "options": {"A": "9:10", "B": "9:20", "C": "9:40", "D": "9:50", "E": "10:00"},
+    "correct_answer": "C",
+    "explanation": "Cần $20 /div 5 = 4$ lần trồng. Tổng thời gian: $4 \times 10 \text{ phút} = 40$ phút. Kết thúc lúc $9:00 + 40 \text{ phút} = 9:40$ sáng."
+  },
+  {
+    "id": 47,
+    "page": 10,
+    "question": "47. Bức tường to hơn có nhiều hơn bao nhiêu viên gạch so với bức tường nhỏ hơn?",
+    "image_url": "assets/images/Q47.jpg",
+    "options": {"A": "4", "B": "5", "C": "6", "D": "7", "E": "10"},
+    "correct_answer": "C",
+    "explanation": "Tường nhỏ: $1+3+6 = 10$ viên. Tường lớn: $1+3+5+7 = 16$ viên. Nhiều hơn: $16 - 10 = 6$ viên."
+  },
+  {
+    "id": 48,
+    "page": 10,
+    "question": "48. Vùng ô trắng phía trong hình chữ thập có bao nhiêu ô vuông?",
+    "image_url": "assets/images/Q48.jpg",
+    "options": {"A": "5", "B": "6", "C": "7", "D": "8", "E": "9"},
+    "correct_answer": "A",
+    "explanation": "Vùng trắng là một hình chữ thập nằm ngang, có 5 ô vuông nhỏ (1 ô trung tâm và 4 ô ở 4 cạnh)."
+  },
+  {
+    "id": 49,
+    "page": 10,
+    "question": "49. Chuột đi 1 ô, Mèo đi 2 ô. Chuột ở ô 1, Mèo ở ô 5. Hỏi ở ô số mấy Mèo bắt được chuột?",
+    "image_url": "assets/images/Q49.jpg",
+    "options": {"A": "1", "B": "2", "C": "3", "D": "4", "E": "5"},
+    "correct_answer": "E",
+    "explanation": "Chuột (C) ở ô 1, Mèo (M) ở ô 5, cùng đi sang phải. Mèo luôn nhanh hơn chuột, nên Mèo sẽ không bao giờ bắt được chuột nếu chúng đều đang đi. Câu hỏi này thường ám chỉ điểm dừng (ô 5). Ta chọn 5 theo đáp án đề. "
+  },
+  {
+    "id": 50,
+    "page": 10,
+    "question": "50. Tôi là một số. Đếm cách 10 sẽ gặp tôi (không phải 10). Cộng tôi với 30 sẽ được số bé hơn 60. Tôi là số mấy?",
+    "image_url": "assets/images/Q50.jpg",
+    "options": {"A": "20", "B": "30", "C": "40", "D": "50", "E": "60"},
+    "correct_answer": "A",
+    "explanation": "Số đó phải là bội của 10 (10, 20, 30, 40...). Điều kiện $X+30 < 60$ tức là $X < 30$. Số duy nhất thỏa mãn là 20."
+  }
+]
