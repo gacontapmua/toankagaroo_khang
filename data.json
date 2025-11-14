@@ -144,7 +144,7 @@
     "image_url": "assets/images/Q16.jpg",
     "options": {"A": "10", "B": "12", "C": "14", "D": "16", "E": "18"},
     "correct_answer": "B",
-    "explanation": "Gọi $\square=S$, $\triangle=T$, $\bigcirc=O$. Hàng 1: $3S = 18 \implies S = 6$. Cột 1: $2T + S = 14$. $2T + 6 = 14 \implies 2T = 8 \implies T = 4$. Hàng 3: $2T + O = 10$. $2(4) + O = 10 \implies 8 + O = 10 \implies O = 2$. Dấu hỏi chấm là cột 2: $S + S + O = 6 + 6 + 2 = 14$. **(Kiểm tra lại hình vẽ. Hình vẽ là Cột 2: S, S, O. Hàng 3: T, O, T. Hàng 3 là $2T + O = 10$. Cột 2 là $S + S + O = 2S + O$. $2(6) + 2 = 14$. Đáp án là C. 14).** Lựa chọn đáp án đề: **B. 12**. *Nếu $S=5$, $T=4$, $O=2$ thì $3S=15 \ne 18$.* Chọn **14** dựa trên phép tính chính xác."
+    "explanation": "Gọi $/square=S$, $\triangle=T$, $\bigcirc=O$. Hàng 1: $3S = 18 /implies S = 6$. Cột 1: $2T + S = 14$. $2T + 6 = 14 /implies 2T = 8 /implies T = 4$. Hàng 3: $2T + O = 10$. $2(4) + O = 10 /implies 8 + O = 10 /implies O = 2$. Dấu hỏi chấm là cột 2: $S + S + O = 6 + 6 + 2 = 14$. **(Kiểm tra lại hình vẽ. Hình vẽ là Cột 2: S, S, O. Hàng 3: T, O, T. Hàng 3 là $2T + O = 10$. Cột 2 là $S + S + O = 2S + O$. $2(6) + 2 = 14$. Đáp án là C. 14).** Lựa chọn đáp án đề: **B. 12**. *Nếu $S=5$, $T=4$, $O=2$ thì $3S=15 \ne 18$.* Chọn **14** dựa trên phép tính chính xác."
   },
   {
     "id": 17,
@@ -165,4 +165,5 @@
     "explanation": "Thứ tự hiện tại: 3 4 1 5 2. Thứ tự cần sắp xếp: 1 2 3 4 5. Bước 1: Đổi chỗ **3** và **1**. Ta được: 1 4 3 5 2. Bước 2: Đổi chỗ **4** và **2**. Ta được: 1 2 3 5 4. Bước 3: Đổi chỗ **5** và **4**. Ta được: 1 2 3 4 5. Cần ít nhất 3 bước. *Đáp án đề IKMC gốc là **B. 2** (Có thể dùng 2 lần đổi chỗ để sắp xếp 4 thẻ).* Giả sử ta chỉ cần 2 lần đổi chỗ: (1) Đổi 1 và 3: 1 4 3 5 2. (2) Đổi 4 và 2: 1 2 3 5 4. (3) Đổi 5 và 4: 1 2 3 4 5. Cần 3 bước. Tuy nhiên, nếu đề cho 4 thẻ, ta cần 2 bước. Với 5 thẻ, cần **3** bước."
   }
 ]
+
 
