@@ -1,5 +1,5 @@
 [
-  // --- TRANG 1 (10 CÂU) ---
+ 
   {
     "id": 1,
     "page": 1,
@@ -91,7 +91,7 @@
     "explanation": "Hình (C) là tranh ghép duy nhất có một hình tròn đầy (táo, chuối, lê). Các hình (A, B, D, E) đều chỉ sử dụng các hình có đường viền."
   },
 
-  // --- TRANG 2 (8 CÂU) ---
+ 
   {
     "id": 11,
     "page": 2,
@@ -165,3 +165,4 @@
     "explanation": "Thứ tự hiện tại: 3 4 1 5 2. Thứ tự cần sắp xếp: 1 2 3 4 5. Bước 1: Đổi chỗ **3** và **1**. Ta được: 1 4 3 5 2. Bước 2: Đổi chỗ **4** và **2**. Ta được: 1 2 3 5 4. Bước 3: Đổi chỗ **5** và **4**. Ta được: 1 2 3 4 5. Cần ít nhất 3 bước. *Đáp án đề IKMC gốc là **B. 2** (Có thể dùng 2 lần đổi chỗ để sắp xếp 4 thẻ).* Giả sử ta chỉ cần 2 lần đổi chỗ: (1) Đổi 1 và 3: 1 4 3 5 2. (2) Đổi 4 và 2: 1 2 3 5 4. (3) Đổi 5 và 4: 1 2 3 4 5. Cần 3 bước. Tuy nhiên, nếu đề cho 4 thẻ, ta cần 2 bước. Với 5 thẻ, cần **3** bước."
   }
 ]
+
